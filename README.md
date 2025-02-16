@@ -1,28 +1,28 @@
-Hi there, I'm Raunak Jalan! 👋
-Welcome to my GitHub profile! I'm a budding coder, excited to dive into the vast ocean of programming. Currently, my focus is on learning and exploring Python 🐍, and I'm thrilled to share my journey with you.
+# Hi there, I'm Raunak Jalan! 👋  
 
-About Me
-🌱 I’m currently learning Python and exploring its numerous libraries and frameworks.
-🤔 I’m curious about everything tech and love to explore new tools and technologies.
-💼 You can connect with me on LinkedIn.
-🧗‍♂️ I believe in the power of persistence and continuous learning.
-Projects and Learning Journey
-Here, you'll find my projects, experiments, and everything I'm tinkering with. I'm at the beginning of my coding adventure, so stay tuned for some cool stuff!
+🚀 **Budding Engineer | IoT & AI Enthusiast | Problem Solver**  
 
-📚 Learning Path: Python Basics, Data Structures, Algorithms, IoT, and related technologies.
-🛠️ Projects:
-Working on EV Charging Stations Automation.
-Exploring other IoT-related projects.
-Building small scripts and tools to automate tasks and solve problems.
-💡 Ideas:
-Delving into the world of data analysis, web development, and more.
-Continuing to innovate in the IoT space with new projects and ideas.
-Fun Python Fact
-Did you know? 🐍
+Welcome to my GitHub! I'm passionate about exploring tech, solving real-world problems, and building innovative solutions. Currently, I’m diving deep into **Python, IoT, AI, and system design**, turning ideas into functional projects.  
 
-The name "Python" isn't derived from the snake but from the British comedy series "Monty Python's Flying Circus". The creator of Python, Guido van Rossum, was reading the script for the series during Python's implementation and thought it was a fun and quirky name for the language.
+## 🔧 What I'm Working On:  
+- **Smart Water Leakage Detection System** 💧 *(IoT-powered, ML-enhanced)*  
+- **RFID-Based EV Charging Automation** ⚡  
+- **Network Bandwidth Prioritization System** 🌐 *(For better control over internet speed distribution)*  
+- More cool ideas in the making!  
 
-Let's Connect!
-I love connecting with fellow coders and tech enthusiasts. Feel free to reach out to me via LinkedIn for collaboration, suggestions, or just a friendly chat.
+## 📚 Learning & Exploring:  
+- **Python**, Data Structures & Algorithms 🧠  
+- **Machine Learning** for smart automation 🤖  
+- **IoT & Embedded Systems** (ESP32, Arduino) 🔩  
+- **Web Development** (for project dashboards) 🌍  
 
-Happy Coding! 🚀
+## 🎯 My Approach:  
+I believe in **learning by doing**—from writing scripts that automate tasks to designing AI-driven IoT systems. If it solves a problem, I’m all in!  
+
+## 💡 Fun Fact:  
+Python isn’t named after the snake 🐍—it’s inspired by *Monty Python’s Flying Circus*! The creator, Guido van Rossum, just liked the show’s quirky humor.  
+
+## 🤝 Let's Connect!  
+I'm always up for **tech discussions, collaborations, and innovative ideas**. Feel free to reach out!  
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/jalan-raunak/)** | ✉️ **[Email](jalan.raunak@outlook.com)** |
