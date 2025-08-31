@@ -1,4 +1,4 @@
-### Hey there, I'm Raunak Jalan! 👋
+### Hey there, I'm Raunak Jalan!
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhvcmI2c2MxY3dmbjdsanBzdDQ3azhxM2ZzaTE4d2JhNGQ4d2RqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif"A coding wizard typing on a laptop" width="250" />
