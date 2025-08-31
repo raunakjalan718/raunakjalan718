@@ -23,4 +23,4 @@ I'm passionate about building things that solve real-world problems and tell a g
 
 If you want to collaborate or just talk tech, feel free to reach out. I promise I don't bite. (Unless you're a bug 👾, then it's fair game.)
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/jalan-raunak/)** | ✉️ **[Email](jalan.raunak@outlook.com)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/jalan-raunak/)** | ✉️ **[Email: jalan.raunak@outlook.com]**
