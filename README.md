@@ -11,7 +11,7 @@ I'm passionate about building things that solve real-world problems and tell a g
 
 ---
 
-### My Projects
+### 🚀 My Projects
 
 * **EvoDoc**: A machine learning-based platform to help doctors provide more personalized and accurate medicines and treatments by analyzing a patient's medical history.
 * **RHindCharge**: I developed an IoT prototype to help EV drivers find and book charging spots in real time. It's a small step toward making sustainable transport a little easier.
@@ -25,13 +25,6 @@ I'm passionate about building things that solve real-world problems and tell a g
 * **Languages**: Python, Java, C++, C, JavaScript, SQL
 * **Frameworks & Tools**: React, Node.js, Next.js, Git, GitHub, MySQL, FAISS, ChromaDB, ESP32
 * **Domains**: Generative AI, IoT, Machine Learning, Data Science, Web Development, Prompt Engineering
-
----
-
-### ✨ Highlights
-
-* **HackWithIndia Hackathon**: My team and I were proud to be runners-up among 1,500 teams nationwide.
-* **Activity Based Learning Skills Event**: I took home the 3rd prize, which was a great achievement.
 
 ---
 
