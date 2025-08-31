@@ -1,41 +1,41 @@
-### Hi there! I'm Raunak Jalan 👋
+### Hey there, I'm Raunak Jalan! 👋
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhvcmI2c2MxY3dmbjdsanBzdDQ3azhxM2ZzaTE4d2JhNGQ4d2RqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" alt="A coding wizard typing on a laptop" width="250" />
+  <img src="https://media.giphy.com/media/2E5v7s83gP1sE/giphy.gif" alt="A coding wizard typing on a laptop" width="250" />
 </div>
 
 <br>
 
-[cite_start]I'm a curious and driven Computer Science student with a passion for **AI, IoT, and digital storytelling**[cite: 49]. [cite_start]I enjoy turning complex problems into scalable, impactful solutions[cite: 50].
+I'm a computer science student with a knack for turning ideas into reality, especially in the worlds of **AI** and the **Internet of Things (IoT)**. I'm passionate about building things that solve real-world problems and tell a good story.
 
 ---
 
-### 🔧 What I'm Building:
+### 🚀 My Projects
 
-* [cite_start]**AI News Summary Dashboard**: A Next.js application featuring a visually stunning UI with animated elements[cite: 105]. [cite_start]It provides real-time news articles in multiple languages with AI-generated summaries[cite: 20, 106].
-* [cite_start]**Real-time EV Charging Port Vacancy System**: An IoT prototype to detect real-time port availability[cite: 24, 116]. [cite_start]It allows users to book time slots for charging[cite: 25, 117].
-* [cite_start]**Underground Water Leakage Detection System**: An advanced system combining IoT sensors and machine learning[cite: 94]. [cite_start]It uses ESP32 and flow sensors to collect real-time data and a Python-based ML model to classify leaks[cite: 95, 96].
-* [cite_start]**AI N-Queens Problem Solver**: A Python-based solver for the N-Queens problem using backtracking[cite: 29, 89]. [cite_start]It visualizes board states and evaluates solution efficiency across different board sizes[cite: 30, 90].
-
----
-
-### 📚 My Toolkit:
-
-* [cite_start]**Languages**: Python, C, C++, Java, JavaScript, SQL[cite: 39].
-* [cite_start]**Frameworks & Tools**: React, Next.js, Node.js, Git, GitHub, MySQL, FAISS, ChromaDB, ESP32[cite: 39, 40].
-* [cite_start]**Domains**: Generative AI, IoT, Machine Learning, Data Science, Web Development, and Prompt Engineering[cite: 40, 123, 124].
+* **AI News Summary Dashboard**: I built a multilingual news platform using Next.js that gives you real-time articles with AI-generated summaries. It's all about making news consumption more efficient and engaging.
+* **Real-time EV Charging Port Vacancy System**: I developed an IoT prototype to help EV drivers find and book charging spots in real time. It's a small step toward making sustainable transport a little easier.
+* **Underground Water Leakage Detection System**: This was a fun project where I combined IoT sensors (ESP32 and flow sensors) with a Python-based machine learning model to detect and classify water leaks.
+* **AI N-Queens Problem Solver**: I implemented a solver for the classic N-Queens problem using Python. It was a great way to dive into backtracking algorithms and visualize how AI optimization works.
 
 ---
 
-### 🏆 Recognitions:
+### 🛠️ My Skills
 
-* [cite_start]**HackWithIndia Hackathon**: Runner-up among 1,500 teams[cite: 45, 195].
-* [cite_start]**Activity Based Learning Skills Event**: 3rd prize winner[cite: 45, 196].
+* **Languages**: Python, Java, C++, C, JavaScript, SQL
+* **Frameworks & Tools**: React, Node.js, Next.js, Git, GitHub, MySQL, FAISS, ChromaDB, ESP32
+* **Domains**: Generative AI, IoT, Machine Learning, Data Science, Web Development, Prompt Engineering
 
 ---
 
-### 🤝 Let's Connect:
+### ✨ Highlights
 
-I'm always open to discussing new ideas, collaborating on projects, or just chatting about technology.
+* **HackWithIndia Hackathon**: My team and I were proud to be runners-up among 1,500 teams nationwide.
+* **Activity Based Learning Skills Event**: I took home the 3rd prize, which was a great achievement.
+
+---
+
+### 🤝 Let's Connect
+
+I'm always excited to collaborate on new ideas and connect with fellow tech enthusiasts. Feel free to reach out and say hi!
 
 🔗 **[LinkedIn](https://www.linkedin.com/in/jalan-raunak/)** | ✉️ **[Email](jalan.raunak@outlook.com)**
