@@ -11,15 +11,6 @@ I'm passionate about building things that solve real-world problems and tell a g
 
 ---
 
-### 🚀 My Projects
-
-* **EvoDoc**: A machine learning-based platform to help doctors provide more personalized and accurate medicines and treatments by analyzing a patient's medical history.
-* **RHindCharge**: I developed an IoT prototype to help EV drivers find and book charging spots in real time. It's a small step toward making sustainable transport a little easier.
-* **AI News Summary Dashboard**: I built a multilingual news platform using Next.js that gives you real-time articles with AI-generated summaries. It's all about making news consumption more efficient and engaging.
-* **Underground Water Leakage Detection System**: This was a fun project where I combined IoT sensors (ESP32 and flow sensors) with a Python-based machine learning model to detect and classify water leaks.
-
----
-
 ### 🛠️ My Skills
 
 * **Languages**: Python, Java, C++, C, JavaScript, SQL
@@ -30,6 +21,6 @@ I'm passionate about building things that solve real-world problems and tell a g
 
 ### 🤝 Let's Connect
 
-I'm always excited to collaborate on new ideas and connect with fellow tech enthusiasts. Feel free to reach out and say hi!
+If you want to collaborate or just talk tech, feel free to reach out. I promise I don't bite. (Unless you're a bug 👾, then it's fair game.)
 
 🔗 **[LinkedIn](https://www.linkedin.com/in/jalan-raunak/)** | ✉️ **[Email](jalan.raunak@outlook.com)**
